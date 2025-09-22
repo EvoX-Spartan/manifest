@@ -129,6 +129,7 @@
   <project path="packages/apps/ColumbusService" name="packages_apps_ColumbusService" remote="evo" />
   <project path="packages/apps/EvoEgg" name="packages_apps_EvoEgg" remote="evo" />
   <project path="packages/apps/Evolver" name="packages_apps_Evolver" remote="evo" />
+  <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="evo" />
   <project path="packages/apps/FaceUnlock" name="packages_apps_FaceUnlock" remote="evo" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="evo" />
   <project path="packages/apps/LMOFreeform" name="packages_apps_LMOFreeform" remote="evo" />

@@ -148,6 +148,7 @@
   <project path="device/lineage/sepolicy" name="device_evolution_sepolicy" remote="evo" />
 
   <!-- System -->
+  <project path="system/apex" name="system_apex" groups="pdk" remote="evo" />
   <project path="system/bpf" name="system_bpf" groups="pdk" remote="evo" />
   <project path="system/core" name="system_core" groups="pdk" remote="evo" />
   <project path="system/libhwbinder" name="system_libhwbinder" groups="pdk" remote="evo" />
